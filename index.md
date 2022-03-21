@@ -10,9 +10,9 @@ sections:
       background: /images/133445661_m.jpg
       url: /contact-us/
       key_highlights:
-        - title: Incoming Student
+        - title: Wayfinding & Facilities
           description: ""
-          url: https://google.com
+          url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
         - title: Active Full Time Student
           description: ""
           url: https://gmail.com
