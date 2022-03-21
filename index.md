@@ -22,20 +22,4 @@ sections:
         - title: Staff Directory
           description: ""
           url: https://www.tp.edu.sg/about-tp/pceo-message.html
-  - infobar:
-      title: Wayfinding & Facilities
-      button: Click For Info
-      url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-  - infobar:
-      title: TP Events
-      button: Click for Info
-      url: https://www.tp.edu.sg/life-at-tp/events.html
-  - infobar:
-      title: Contact Information
-      button: Click for Info
-      url: https://www.tp.edu.sg/admissions-and-finance/student-services.html
-  - infobar:
-      title: Staff Directory
-      button: Click for Info
-      url: https://www.tp.edu.sg/about-tp/pceo-message.html
 ---
