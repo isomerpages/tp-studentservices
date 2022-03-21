@@ -23,11 +23,17 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Wayfinding & Facilities
+      button: Click For Info
       url: /faq/
+  - infobar:
+      title: TP Events
+      button: Click for Info
+      url: www.yahoo.com.sg
+  - infobar:
+      title: Contact Information
+      button: Click for Info
+      url: www.tp.edu.sg
   - resources:
       title: Media
       subtitle: Learn more
