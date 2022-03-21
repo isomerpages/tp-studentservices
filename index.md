@@ -37,7 +37,7 @@ sections:
   - infobar:
       title: Staff Directory
       button: Click for Info
-      url: www.google.com.sg
+      url: channelnewsasia.com
   - resources:
       title: Media
       subtitle: Learn more
