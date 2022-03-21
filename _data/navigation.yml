@@ -6,7 +6,11 @@ links:
     url: /page/
   - title: Active Part Time Students
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Form 1
+        url: /permalink
+      - title: Form 2
+        url: /permalink
   - title: Alumni
     url: /permalink
     sublinks: []
