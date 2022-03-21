@@ -38,8 +38,4 @@ sections:
       title: Staff Directory
       button: Click for Info
       url: https://www.tp.edu.sg/about-tp/pceo-message.html
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
