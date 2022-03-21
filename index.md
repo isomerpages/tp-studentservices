@@ -37,7 +37,7 @@ sections:
   - infobar:
       title: Staff Directory
       button: Click for Info
-      url: channelnewsasia.com
+      url: https://www.tp.edu.sg/about-tp/pceo-message.html
   - resources:
       title: Media
       subtitle: Learn more
