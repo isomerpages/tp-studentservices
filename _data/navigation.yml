@@ -13,4 +13,10 @@ links:
         url: /permalink
   - title: Alumni
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Form 1
+        url: /permalink
+      - title: Form 2
+        url: /permalink
+      - title: Form 3
+        url: /permalink
