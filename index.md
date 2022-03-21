@@ -29,7 +29,7 @@ sections:
   - infobar:
       title: TP Events
       button: Click for Info
-      url: http://www.yahoo.com.sg
+      url: https://www.tp.edu.sg/life-at-tp/events.html
   - infobar:
       title: Contact Information
       button: Click for Info
