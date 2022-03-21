@@ -33,7 +33,7 @@ sections:
   - infobar:
       title: Contact Information
       button: Click for Info
-      url: www.tp.edu.sg
+      url: tp.edu.sg
   - infobar:
       title: Staff Directory
       button: Click for Info
