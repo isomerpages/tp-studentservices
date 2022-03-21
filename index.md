@@ -13,9 +13,9 @@ sections:
         - title: Wayfinding & Facilities
           description: ""
           url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-        - title: Active Full Time Student
+        - title: TP Events
           description: ""
-          url: https://gmail.com
+          url: https://www.tp.edu.sg/life-at-tp/events.html
         - title: Active Part Time Student
           description: ""
           url: /privacy/
