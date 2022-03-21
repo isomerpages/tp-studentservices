@@ -34,17 +34,12 @@ sections:
       title: Contact Information
       button: Click for Info
       url: www.tp.edu.sg
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - infobar:
       title: Staff Directory
       button: Click for Info
       url: www.google.com.sg
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
