@@ -29,7 +29,7 @@ sections:
   - infobar:
       title: TP Events
       button: Click for Info
-      url: www.yahoo.com.sg
+      url: http://www.yahoo.com.sg
   - infobar:
       title: Contact Information
       button: Click for Info
