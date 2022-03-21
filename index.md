@@ -7,7 +7,7 @@ permalink: /
 notification: Hello! Welcome to Student Services Digital
 sections:
   - hero:
-      background: /images/35481594_m.jpg
+      background: /images/133445661_m.jpg
       url: /contact-us/
       key_highlights:
         - title: Incoming Student
