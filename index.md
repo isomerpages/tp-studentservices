@@ -19,9 +19,9 @@ sections:
         - title: Contact Information
           description: ""
           url: https://www.tp.edu.sg/admissions-and-finance/student-services.html
-        - title: Alumni
+        - title: Staff Directory
           description: ""
-          url: ""
+          url: https://www.tp.edu.sg/about-tp/pceo-message.html
   - infobar:
       title: Wayfinding & Facilities
       button: Click For Info
