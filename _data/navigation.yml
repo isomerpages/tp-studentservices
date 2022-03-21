@@ -1,13 +1,6 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: Incoming Students
     url: /contact-us/
   - title: Page
     url: /page/
