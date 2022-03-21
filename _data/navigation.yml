@@ -4,7 +4,9 @@ links:
     url: /contact-us/
   - title: Active Full Time Students
     url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource
-    resource_room: true
+  - title: Active Part Time Students
+    url: /permalink
+    sublinks: []
+  - title: Alumni
+    url: /permalink
+    sublinks: []
