@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: Wayfinding & Facilities
       button: Click For Info
-      url: /faq/
+      url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
   - infobar:
       title: TP Events
       button: Click for Info
