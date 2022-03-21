@@ -33,7 +33,7 @@ sections:
   - infobar:
       title: Contact Information
       button: Click for Info
-      url: tp.edu.sg
+      url: https://www.tp.edu.sg/admissions-and-finance/student-services.html
   - infobar:
       title: Staff Directory
       button: Click for Info
