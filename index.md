@@ -16,9 +16,9 @@ sections:
         - title: TP Events
           description: ""
           url: https://www.tp.edu.sg/life-at-tp/events.html
-        - title: Active Part Time Student
+        - title: Contact Information
           description: ""
-          url: /privacy/
+          url: https://www.tp.edu.sg/admissions-and-finance/student-services.html
         - title: Alumni
           description: ""
           url: ""
