@@ -8,21 +8,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SSDigital_Banner01.jpg
-      url: /contact-us/
-      key_highlights:
-        - title: Wayfinding & Facilities
-          description: ""
-          url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-        - title: TP Events
-          description: ""
-          url: https://www.tp.edu.sg/life-at-tp/events.html
-        - title: Contact Information
-          description: ""
-          url: https://www.tp.edu.sg/admissions-and-finance/student-services.html
-        - title: Staff Directory
-          description: ""
-          url: https://www.tp.edu.sg/about-tp/pceo-message.html
+      background: /images/SSD_Banner02.png
+      title: Student Services Digital
+      dropdown:
+        title: General Information
+        options: []
   - infopic:
       title: Incoming Student
       subtitle: I am an
