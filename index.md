@@ -12,7 +12,13 @@ sections:
       title: Student Services Digital
       dropdown:
         title: General Information
-        options: []
+        options:
+          - title: Wayfinding & Facilities
+            url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
+          - title: TP Events
+            url: https://www.tp.edu.sg/home.html
+          - title: Contact Information
+            url: https://www.tp.edu.sg/contactus
   - infopic:
       title: Incoming Student
       subtitle: I am an
