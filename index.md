@@ -55,5 +55,5 @@ sections:
       description: Stay engaged and connected with TP beyond graduation
       button: Start now
       url: https://www.tp.edu.sg/landing/alumni.html
-      image: /images/Alumni_About TP Alumni.jpg
+      image: /images/Alumni_TP Alumni Membership-Services.jpg
 ---
