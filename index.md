@@ -1,8 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Student Services Digital
+description: To delight customers by providing intuitive and seamless
+  touchpoints for student services
+image: /images/SSDigital_Banner01.jpg
 permalink: /
 notification: Hello! Welcome to Student Services Digital
 sections:
@@ -23,3 +24,4 @@ sections:
           description: ""
           url: https://www.tp.edu.sg/about-tp/pceo-message.html
 ---
+
