@@ -19,6 +19,8 @@ sections:
             url: https://www.tp.edu.sg/home.html
           - title: Contact Information
             url: https://www.tp.edu.sg/contactus
+          - title: Staff Directory
+            url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
   - infopic:
       title: Incoming Student
       subtitle: I am an
