@@ -2,21 +2,11 @@ logo: /images/TP_logo.jpg
 links:
   - title: Incoming Students
     url: /contact-us/
-  - title: Active Full Time Students
+  - title: Students
     url: /page/
-  - title: Active Part Time Students
+  - title: Adult Learners
     url: /permalink
-    sublinks:
-      - title: Form 1
-        url: /permalink
-      - title: Form 2
-        url: /permalink
+    sublinks: []
   - title: Alumni
     url: /permalink
-    sublinks:
-      - title: Form 1
-        url: /permalink
-      - title: Form 2
-        url: /permalink
-      - title: Form 3
-        url: /permalink
+    sublinks: []
