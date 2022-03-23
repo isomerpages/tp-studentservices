@@ -1,12 +1,12 @@
 logo: /images/TP_logo.jpg
 links:
   - title: Incoming Students
-    url: /contact-us/
+    url: https://www.tp.edu.sg/admissions-and-finance/course-acceptance-enrolment.html
   - title: Students
-    url: /page/
+    url: https://www.tp.edu.sg/student-services
   - title: Adult Learners
-    url: /permalink
+    url: https://www.tp.edu.sg/landing/adult-learners.html
     sublinks: []
   - title: Alumni
-    url: /permalink
+    url: https://www.tp.edu.sg/landing/alumni/alumni-membership-and-services.html
     sublinks: []
