@@ -8,7 +8,7 @@ permalink: /
 notification: Hello! Welcome to Student Services Digital
 sections:
   - hero:
-      background: /images/133445661_m.jpg
+      background: /images/SSDigital_Banner01.jpg
       url: /contact-us/
       key_highlights:
         - title: Wayfinding & Facilities
@@ -23,5 +23,8 @@ sections:
         - title: Staff Directory
           description: ""
           url: https://www.tp.edu.sg/about-tp/pceo-message.html
+  - resources:
+      title: I am...
+      subtitle: Need Help?
+      button: FAQs
 ---
-
