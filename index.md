@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Student
       subtitle: I am a current
-      description: Looking for  Information & Services
+      description: Looking for  Information & Services?
       button: Let's Go
       url: /student
       image: /images/course-search-img.png
