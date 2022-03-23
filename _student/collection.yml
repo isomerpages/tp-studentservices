@@ -2,4 +2,4 @@ collections:
   student:
     output: true
     order:
-      - Student.md
+      - Student Services.md
