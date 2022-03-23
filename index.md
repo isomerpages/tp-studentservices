@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SSD_Banner02.png
+      background: /images/SSD_Banner04.png
       title: Student Services Digital
       dropdown:
         title: General Information
