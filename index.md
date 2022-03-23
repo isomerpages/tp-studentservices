@@ -36,7 +36,7 @@ sections:
       subtitle: I am a current
       description: Looking for  Information & Services?
       button: Let's Go
-      url: https://www.tp.edu.sg/student-services
+      url: /student
       image: /images/course-search-img.png
       alt: Image alt text
   - infopic:
