@@ -53,7 +53,7 @@ sections:
         public (including Alumni) by appointments only.
       button: Make an Appointment
       url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
-      image: /images/SS Centre Hours.png
+      image: /images/SS Centre Hours2.png
       alt: Image alt text
   - infobar:
       title: Contact Information
