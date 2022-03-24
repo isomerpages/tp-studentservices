@@ -25,6 +25,7 @@ sections:
           url: https://www.tp.edu.sg/landing/alumni.html
       button: Book an appointment to visit us
       url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
+      subtitle: Public visits to Temasek Poly is by appointment only.
   - infopic:
       title: Freshmen Orientation Programme 2022
       subtitle: Important Announcement
