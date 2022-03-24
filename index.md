@@ -34,8 +34,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Wayfinding & Facilities
-      description: "Temasek Polytechnic is located at 21 Tampines Ave 1, Singapore
-        (529757) "
+      description: TP Facilities & Amenities
       button: Find out more
       url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
       image: /images/TP Map.png
