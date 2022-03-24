@@ -32,11 +32,10 @@ sections:
       image: /images/TP Map.png
       alt: Image alt text
   - infopic:
-      title: Student
-      subtitle: I am a current
-      description: Looking for  Information & Services?
+      title: TP Events
+      description: Check out what's happening at TP
       button: Let's Go
-      url: /student
+      url: https://www.tp.edu.sg/about-tp/media-centre/campus-news.html
       image: /images/course-search-img.png
       alt: Image alt text
   - infopic:
