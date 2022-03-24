@@ -53,7 +53,7 @@ sections:
         public (including Alumni) by appointments only.
       button: Make an Appointment
       url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
-      image: /images/35481594_m.jpg
+      image: /images/SS Centre Hours.png
       alt: Image alt text
   - infobar:
       title: Contact Information
@@ -61,4 +61,3 @@ sections:
       button: Contact us
       url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
 ---
-
