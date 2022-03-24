@@ -3,10 +3,9 @@ title: Contact Us
 permalink: /contactus
 description: ""
 ---
-Directory of Services
+# **Directory of Services**
 
-| Matters On | Contacts | Email |
+| **Enquiry** | **Contact** | **Email** |
 | -------- | -------- | -------- |
-| Admissions    | 6788 2000 (Select option '1')
-| admissions@tp.edu.sg|
-
+| Admissions    | 6788 2000 (option '1')| admissions@tp.edu.sg|
+Fees & Payment | 6788 2000 (option '3') | fnahotline@tp.edu.sg
