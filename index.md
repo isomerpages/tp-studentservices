@@ -57,4 +57,12 @@ sections:
       description: Looking for a particular staff or department?
       button: Contact us
       url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
+  - infopic:
+      title: Student Services Centre
+      description: The counter services at Student Services will be available to
+        public (including Alumni) by appointments only.
+      button: Make an Appointment
+      url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
+      image: /images/35481594_m.jpg
+      alt: Image alt text
 ---
