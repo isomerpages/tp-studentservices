@@ -2,8 +2,8 @@ title: Student Services Digital
 url: ""
 favicon: /images/TP Icon copy.png
 colors:
-  primary-color: "#ef0c1d"
-  secondary-color: "#545454"
+  primary-color: "#545454"
+  secondary-color: "#ef0c1d"
   media-colors:
     - title: media-color-one
       color: "#000000"
