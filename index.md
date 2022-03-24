@@ -51,7 +51,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: Contact Information
-      description: TP Departments & Staff Directory
-      button: view contacts
+      description: Have specific questions and did not find your answers on this site?
+      button: Contact us
       url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
 ---
