@@ -47,9 +47,11 @@ sections:
       url: https://www.tp.edu.sg/about-tp/media-centre/campus-news.html
       image: /images/course-search-img.png
       alt: Image alt text
-  - resources:
+  - infobar:
       title: Student Services Centre
-      button: Book an appointment here
+      description: Public must book an appointment to visit the centre
+      button: Book here
+      url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
   - infobar:
       title: Contact Information
       description: Looking for a particular staff or department?
