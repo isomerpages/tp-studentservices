@@ -52,7 +52,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: Contact Information
-      description: Have specific questions and did not find your answers on this site?
+      description: Looking for a particular staff or department?
       button: Contact us
       url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
 ---
