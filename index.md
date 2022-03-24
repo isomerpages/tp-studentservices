@@ -44,7 +44,7 @@ sections:
       description: Check out what's happening at TP
       button: Let's Go
       url: https://www.tp.edu.sg/about-tp/media-centre/campus-news.html
-      image: /images/course-search-img.png
+      image: /images/Students Landscape.png
       alt: Image alt text
   - infopic:
       title: Student Services Centre
