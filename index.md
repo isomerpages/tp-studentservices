@@ -3,7 +3,7 @@ layout: homepage
 title: Student Services Digital
 description: To delight customers by providing intuitive and seamless
   touchpoints for student services
-image: /images/SSDigital_Banner01.jpg
+image: /images/SSD_Banner05.png
 permalink: /
 notification: ""
 sections:
@@ -61,3 +61,4 @@ sections:
       button: Contact us
       url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
 ---
+
