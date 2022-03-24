@@ -47,16 +47,6 @@ sections:
       url: https://www.tp.edu.sg/about-tp/media-centre/campus-news.html
       image: /images/course-search-img.png
       alt: Image alt text
-  - infobar:
-      title: Student Services Centre
-      description: Public must book an appointment to visit the centre
-      button: Book here
-      url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
-  - infobar:
-      title: Contact Information
-      description: Looking for a particular staff or department?
-      button: Contact us
-      url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
   - infopic:
       title: Student Services Centre
       description: The counter services at Student Services will be available to
@@ -65,4 +55,9 @@ sections:
       url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
       image: /images/35481594_m.jpg
       alt: Image alt text
+  - infobar:
+      title: Contact Information
+      description: Looking for a particular staff or department?
+      button: Contact us
+      url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
 ---
