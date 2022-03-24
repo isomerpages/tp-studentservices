@@ -1,9 +1,9 @@
 title: Student Services Digital
 url: ""
-favicon: /images/TP_logo.jpg
+favicon: /images/TPlogo_300.png
 colors:
   primary-color: "#ef0c1d"
-  secondary-color: "#f03b11"
+  secondary-color: "#545454"
   media-colors:
     - title: media-color-one
       color: "#000000"
