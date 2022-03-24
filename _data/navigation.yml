@@ -12,8 +12,8 @@ links:
     sublinks:
       - title: Academic Calendar
         url: https://www.tp.edu.sg/schools-and-courses/for-current-students/academic-calendar.html
-  - title: Students
-    url: https://www.tp.edu.sg/student-services
+      - title: Fees & Financial Matters
+        url: https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters.html
   - title: Adult Learners
     url: https://www.tp.edu.sg/landing/adult-learners.html
     sublinks: []
