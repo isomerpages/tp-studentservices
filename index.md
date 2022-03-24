@@ -10,17 +10,19 @@ sections:
   - hero:
       background: /images/SSD_Banner04.png
       title: Student Services Digital
-      dropdown:
-        title: General Information
-        options:
-          - title: Wayfinding & Facilities
-            url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-          - title: TP Events
-            url: https://www.tp.edu.sg/home.html
-          - title: Contact Information
-            url: https://www.tp.edu.sg/contactus
-          - title: Staff Directory
-            url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
+      key_highlights:
+        - title: Incoming Students
+          description: Course Acceptance & Enrolment
+          url: https://www.tp.edu.sg/admissions-and-finance/course-acceptance-enrolment.html
+        - title: Students
+          description: Information & Services
+          url: /student
+        - title: Adult Learners
+          description: Information & Services
+          url: https://www.tp.edu.sg/landing/adult-learners.html
+        - title: Alumni
+          description: Information & Services
+          url: https://www.tp.edu.sg/landing/alumni.html
   - infopic:
       title: Incoming Student
       subtitle: I am an
