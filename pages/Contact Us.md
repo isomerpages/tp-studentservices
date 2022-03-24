@@ -7,7 +7,7 @@ description: ""
 
 
 |   **Enquiry**    |**Email**  | **Tel** |
-| -------- | -------- | -------- |
+| ----------- | -------- | -------- |
 | Admissions    | admissions@tp.edu.sg | 6780 4201 |
 Fees & Payment | fnahotline@tp.edu.sg | 6780 4204|
 Financial Aid & Awards | bursary@tp.edu.sg | 6780 5959
@@ -24,5 +24,4 @@ Financial Aid & Awards | bursary@tp.edu.sg | 6780 5959
 | Humanities & Social Sciences | hsshotline@tp.edu.sg | 6780 6565 |
 | Informatics & IT | IIT@tp.edu.sg |6780 5158 |
 
-
-
+[Staff Directory](https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp)
