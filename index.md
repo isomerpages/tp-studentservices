@@ -49,12 +49,9 @@ sections:
       url: https://www.tp.edu.sg/about-tp/media-centre/campus-news.html
       image: /images/course-search-img.png
       alt: Image alt text
-  - infopic:
-      title: Alumni
-      subtitle: I am an
-      description: Stay engaged and connected with TP beyond graduation
-      button: Start now
-      url: https://www.tp.edu.sg/landing/alumni.html
-      image: /images/Alumni_About TP Alumni.jpg
-      alt: Image alt text
+  - infobar:
+      title: Contact Information
+      description: TP Departments & Staff Directory
+      button: view contacts
+      url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
 ---
