@@ -2,6 +2,14 @@ logo: /images/TPlogo_300.png
 links:
   - title: Incoming Students
     url: https://www.tp.edu.sg/admissions-and-finance/course-acceptance-enrolment.html
+    sublinks:
+      - title: Bring Your Own Device (BYOD)
+        url: https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#byod
+  - title: Students
+    url: /students
+    sublinks:
+      - title: Academic Calendar
+        url: https://www.tp.edu.sg/schools-and-courses/for-current-students/academic-calendar.html
   - title: Students
     url: https://www.tp.edu.sg/student-services
   - title: Adult Learners
