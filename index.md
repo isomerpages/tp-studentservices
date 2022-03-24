@@ -49,7 +49,7 @@ sections:
       alt: Image alt text
   - resources:
       title: Student Services Centre
-      button: Book and appointment
+      button: Book an appointment here
   - infobar:
       title: Contact Information
       description: Looking for a particular staff or department?
