@@ -14,7 +14,7 @@ sections:
         - title: Incoming Students
           description: Course Acceptance & Enrolment
           url: https://www.tp.edu.sg/admissions-and-finance/course-acceptance-enrolment.html
-        - title: Students
+        - title: Students 🔒
           description: Information & Services
           url: https://services.tp.edu.sg/
         - title: Adult Learners
