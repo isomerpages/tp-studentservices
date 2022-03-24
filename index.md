@@ -24,12 +24,12 @@ sections:
           description: Information & Services
           url: https://www.tp.edu.sg/landing/alumni.html
   - infopic:
-      title: Incoming Student
-      subtitle: I am an
-      description: Congratulations on your posting to TP!
-      button: What's next
-      url: https://www.tp.edu.sg/admissions-and-finance/course-acceptance-enrolment.html
-      image: /images/home-quicklinks-background.png
+      title: Wayfinding & Facilities
+      description: "Temasek Polytechnic is located at 21 Tampines Ave 1, Singapore
+        (529757) "
+      button: Find out more
+      url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
+      image: /images/TP Map.png
       alt: Image alt text
   - infopic:
       title: Student
