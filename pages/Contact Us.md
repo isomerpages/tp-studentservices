@@ -18,8 +18,10 @@ Financial Aid & Awards | bursary@tp.edu.sg | 6780 5959
 | -------- | -------- | -------- |
 | Applied Science | AScHotline@tp.edu.sg | 6780 5322|
 | Business | bushotline@tp.edu.sg | 6780 5127|
-
-
+| Design | deshotline@tp.edu.sg | 6780 5133 |
+| Engineering | enghotline@tp.edu.sg |6780 5144 |
+| Humanities & Social Sciences | hsshotline@tp.edu.sg | 6780 6565 |
+| Informatics & IT | IIT@tp.edu.sg |6780 5158 |
 
 
 
