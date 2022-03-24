@@ -58,5 +58,5 @@ sections:
       title: Contact Information
       description: Looking for a particular staff or department?
       button: Contact us
-      url: https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp
+      url: /contactus
 ---
