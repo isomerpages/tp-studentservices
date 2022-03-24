@@ -23,7 +23,7 @@ sections:
         - title: Alumni
           description: Information & Services
           url: https://www.tp.edu.sg/landing/alumni.html
-      button: Book an appointment
+      button: Book an appointment to visit us
       url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
   - infopic:
       title: Freshmen Orientation Programme 2022
