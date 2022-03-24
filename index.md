@@ -27,10 +27,10 @@ sections:
       url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
       subtitle: Public visits to Temasek Poly is by appointment only.
   - infopic:
-      title: Freshmen Orientation Programme 2022
-      subtitle: Important Announcement
-      description: "Details of your Freshmen Orientation Programme (time and venue)
-        will be communicated to you via mail, email or SMS. "
+      title: Important Announcement
+      description: "Freshmen Orientation Programme 2022: Details of your Freshmen
+        Orientation Programme (time and venue) will be communicated to you via
+        mail, email or SMS. "
       button: Discover the action
       url: https://virtualcampus.tp.edu.sg/be-involved/freshmenorientation/
       image: /images/FOP EDM_1920px by 1080px.jpg
