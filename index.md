@@ -24,6 +24,15 @@ sections:
           description: Information & Services
           url: https://www.tp.edu.sg/landing/alumni.html
   - infopic:
+      title: Freshmen Orientation Programme 2022
+      subtitle: Important Announcement
+      description: "Details of your Freshmen Orientation Programme (time and venue)
+        will be communicated to you via mail, email or SMS. "
+      button: Discover the action
+      url: https://virtualcampus.tp.edu.sg/be-involved/freshmenorientation/
+      image: /images/FOP EDM_1920px by 1080px.jpg
+      alt: Image alt text
+  - infopic:
       title: Wayfinding & Facilities
       description: "Temasek Polytechnic is located at 21 Tampines Ave 1, Singapore
         (529757) "
@@ -37,16 +46,6 @@ sections:
       button: Let's Go
       url: https://www.tp.edu.sg/about-tp/media-centre/campus-news.html
       image: /images/course-search-img.png
-      alt: Image alt text
-  - infopic:
-      title: Adult Learner
-      subtitle: I am an
-      description: Temasek Polytechnic SkillsFuture Academy (TSA) is committed to
-        SkillsFuture initiatives and the professional development of adult
-        learners.
-      button: Learn More
-      url: https://www.tp.edu.sg/landing/adult-learners.html
-      image: /images/square.jpg
       alt: Image alt text
   - infopic:
       title: Alumni
