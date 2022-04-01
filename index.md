@@ -16,7 +16,7 @@ sections:
           url: https://www.tp.edu.sg/admissions-and-finance/course-acceptance-enrolment.html
         - title: Students 🔒
           description: Information & Services
-          url: https://services.tp.edu.sg/
+          url: https://ewkteam.tp.edu.sg/sites/StudentServicesDigitalPage/_layouts/15/start.aspx#/SitePages/Home.aspx
         - title: Adult Learners
           description: Information & Services
           url: https://www.tp.edu.sg/landing/adult-learners.html
