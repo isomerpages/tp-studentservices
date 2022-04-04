@@ -17,7 +17,7 @@ sections:
         - title: Students 🔒
           description: Information & Services
           url: https://ewkteam.tp.edu.sg/sites/StudentServicesDigitalPage/_layouts/15/start.aspx#/SitePages/Home.aspx
-        - title: Adult Learners
+        - title: Adult Learners 🔒
           description: Information & Services
           url: https://www.tp.edu.sg/landing/adult-learners.html
         - title: Alumni
