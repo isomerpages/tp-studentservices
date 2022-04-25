@@ -28,8 +28,3 @@ Student Care | care@tp.edu.sg | 6780 5959
 | Humanities & Social Sciences | hsshotline@tp.edu.sg | 6780 6565 |
 | Informatics & IT | IIT@tp.edu.sg |6780 5158 |
 | Centre for Foundation Studies | cfs@tp.edu.sg |6780 4220 |
-
-
-
-
-#### [Staff Directory](https://www.sgdi.gov.sg/ministries/moe/statutory-boards/tp)
