@@ -49,10 +49,8 @@ sections:
   - infopic:
       title: Student Services Centre
       description: The counter services at Student Services will be available to
-        public (including Alumni) by appointments only.
-      button: Make an Appointment
-      url: https://form.gov.sg/#!/5f069c819e6a4a0011e9869d
-      image: /images/SS Centre Hours2.png
+        public (including Alumni) during operating hours.
+      image: /images/StudentService_Hours3.jpg
       alt: Image alt text
   - infobar:
       title: Contact Information
