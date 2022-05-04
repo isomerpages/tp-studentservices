@@ -25,12 +25,10 @@ sections:
           url: https://www.tp.edu.sg/landing/alumni.html
   - infopic:
       title: Important Announcement
-      description: "Freshmen Orientation Programme 2022: Details of your Freshmen
-        Orientation Programme (time and venue) will be communicated to you via
-        mail, email or SMS. "
-      button: Discover the action
-      url: https://virtualcampus.tp.edu.sg/be-involved/freshmenorientation/
-      image: /images/FOP EDM_1920px by 1080px.jpg
+      description: Temasek Polytechnic Graduation 2022
+      button: For more information
+      url: https://www.tp.edu.sg/graduation/
+      image: /images/logo-grad.png
       alt: Image alt text
   - infopic:
       title: Wayfinding & Facilities
