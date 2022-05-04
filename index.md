@@ -46,8 +46,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: Student Services Centre
-      description: "Administration Block 9, Level 2, Lift Lobby C -  Monday to
-        Friday: 8:30am to 5:30pm [Closed for lunch break: 12:00pm - 1:00pm]"
+      description: "Administration Block 9, Level 2, Lift Lobby C  |  Monday to
+        Friday:  8:30am to 5:30pm [Closed for lunch break: 12:00pm - 1:00pm]"
       image: /images/TP Campus Map_SS.jpg
       alt: Image alt text
   - infobar:
