@@ -36,7 +36,7 @@ sections:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
       button: Find out more
-      url: https://www.tp.edu.sg/vrtour/
+      url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
       image: /images/TP Map.png
       alt: Image alt text
   - infopic:
