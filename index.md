@@ -35,7 +35,7 @@ sections:
       description: TP Facilities & Amenities
       button: Find out more
       url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-      image: /images/Virtual Background - TP 1.jpg
+      image: /images/TP Map.png
       alt: Image alt text
   - infopic:
       title: TP Events
@@ -46,9 +46,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Student Services Centre
-      description: "Administration Block 9, Level 2, Lift Lobby C  |  Monday to
-        Friday:  8:30am to 5:30pm [Closed for lunch break: 12:00pm - 1:00pm]"
-      image: /images/TP Campus Map_SS.jpg
+      description: "Monday to Friday:  8:30am to 5:30pm [Closed for lunch break:
+        12:00pm - 1:00pm]"
+      image: /images/TP Campus Map_SS_location2.jpg
       alt: Image alt text
   - infobar:
       title: Contact Information
