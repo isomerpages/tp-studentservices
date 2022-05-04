@@ -46,9 +46,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Student Services Centre
-      description: The counter services at Student Services will be available to
-        public (including Alumni) during operating hours.
-      image: /images/StudentService_Hours3.jpg
+      description: "Administration Block 9, Level 2, Lift Lobby C -  Monday to
+        Friday: 8:30am to 5:30pm [Closed for lunch break: 12:00pm - 1:00pm]"
+      image: /images/TP Campus Map_SS.jpg
       alt: Image alt text
   - infobar:
       title: Contact Information
