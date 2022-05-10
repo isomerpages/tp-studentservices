@@ -15,6 +15,7 @@ Student Care | care@tp.edu.sg | 6780 5959
 | International Students Office | isohotline@tp.edu.sg | -    |
 | Library | asklib@tp.edu.sg | 6780 5772 |
 | Fault Reporting |- | 6780 5955 |
+| IT Service Management (ITSM) Centre | itsm@tp.edu.sg | 6780 5933 |
 
 #### **Schools & Departments**
 
