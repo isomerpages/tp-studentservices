@@ -10,7 +10,7 @@ description: ""
 | -------- | -------- | -------- |
 | Admissions    | admissions@tp.edu.sg | 6780 4201 |
 | Education & Career Guidance | getahead@tp.edu.sg | 6780 5959 |
-| Fault Reporting |- | 6780 5955 |
+| Fault Reporting | efmfaultreporting@tp.edu.sg | 6780 5955 |
 | Fees & Payment | fnahotline@tp.edu.sg | 6780 4204|
 | Financial Aid & Awards | bursary@tp.edu.sg | 6780 5959 |
 | Library | asklib@tp.edu.sg | 6780 5772 |
@@ -24,7 +24,7 @@ description: ""
 #### **Schools & Departments**
 
 
-| **School** | **Email** | **Tel**|
+| **Schools** | **Email** | **Tel**|
 | -------- | -------- | -------- |
 | Applied Science | AScHotline@tp.edu.sg | 6780 5322|
 | Business | bushotline@tp.edu.sg | 6780 5127|
