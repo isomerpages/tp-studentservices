@@ -16,8 +16,9 @@ description: ""
 | Library | asklib@tp.edu.sg | 6780 5772 |
 | International Students Office | isohotline@tp.edu.sg | -    |
 | IT Service Management (ITSM) Centre | itsm@tp.edu.sg | 6780 5933 |
-| Student Services | studentservices@tp.edu.sg | 6780 4191 |
 | Student Care / SEN Support | care@tp.edu.sg | 6780 5959 |
+| Student Services | studentservices@tp.edu.sg | 6780 4191 |
+
 
 
 #### **Schools & Departments**
