@@ -16,7 +16,7 @@ description: ""
 | Education & Career Guidance | getahead@tp.edu.sg | 6780 5959 |
 | International Students Office | isohotline@tp.edu.sg | -    |
 | Library | asklib@tp.edu.sg | 6780 5772 |
-| IT Services (ITSM) | itsm@tp.edu.sg | 6780 5933 |
+| IT Service Management (ITSM) Centre | itsm@tp.edu.sg | 6780 5933 |
 | Fault Reporting |- | 6780 5955 |
 
 #### **Schools & Departments**
