@@ -18,7 +18,7 @@ description: ""
 | IT Service Management (ITSM) Centre | itsm@tp.edu.sg | 6780 5933 |
 | Student Care / SEN Support | care@tp.edu.sg | 6780 5959 |
 | Student Services | studentservices@tp.edu.sg | 6780 4191 |
-
+| Temasek SkillsFuture Academy | tsa@tp.edu.sg |6788 1212 |
 
 #### **Schools**
 
@@ -32,4 +32,3 @@ description: ""
 | School of Engineering | enghotline@tp.edu.sg |6780 5144 |
 | School of Humanities & Social Sciences | hsshotline@tp.edu.sg | 6780 6565 |
 | School of Informatics & IT | IIT@tp.edu.sg |6780 5158 |
-| Temasek SkillsFuture Academy | tsa@tp.edu.sg |6788 1212 |
