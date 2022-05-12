@@ -31,3 +31,4 @@ description: ""
 | Humanities & Social Sciences | hsshotline@tp.edu.sg | 6780 6565 |
 | Informatics & IT | IIT@tp.edu.sg |6780 5158 |
 | Centre for Foundation Studies | cfs@tp.edu.sg |6780 4220 |
+| Temasek SkillsFuture Academy | tsa@tp.edu.sg |6788 1212 |
