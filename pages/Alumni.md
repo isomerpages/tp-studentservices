@@ -22,13 +22,5 @@ The Alumni Division helps our alumni stay engaged and connected with TP beyond g
 
 
 
-Contact/follow us via the following channels to stay connected with TP!
-
- 
-
-|    |   | |
-| -------- | -------- | -------- |
-| 
-☎️    | 6780 5656    | 
-| ✉️ | alumni@tp.edu.sg   | 
+[Stay connected with TP!](https://www.tp.edu.sg/landing/alumni.html)
 
