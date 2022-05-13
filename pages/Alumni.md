@@ -16,11 +16,10 @@ description: ""
 
 **About TP Alumni Division**
 
- 
+ ![](/images/Alumni_About%20TP%20Alumni.jpg)
 
 The Alumni Division helps our alumni stay engaged and connected with TP beyond graduation. We foster affinity, cultivate warm ties, and build a cohesive alumni body through our diverse array of programmes and services. We welcome you to experience a vibrant community of talents and passions, shape and celebrate our milestones, and support TP in our journey of moulding future generations of leaders.
 
 
 
 [Stay connected with TP!](https://www.tp.edu.sg/landing/alumni.html)
-
