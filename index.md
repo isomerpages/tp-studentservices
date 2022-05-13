@@ -22,7 +22,7 @@ sections:
           url: https://www.tp.edu.sg/landing/adult-learners.html
         - title: Alumni
           description: Information & Services
-          url: https://www.tp.edu.sg/landing/alumni.html
+          url: /Alumni
   - infopic:
       title: Important Announcement
       description: Temasek Polytechnic Graduation 2022
