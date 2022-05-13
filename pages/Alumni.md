@@ -24,4 +24,4 @@ The Alumni Division helps our alumni stay engaged and connected with TP beyond g
 
 
 
-[Stay connected with TP!](https://www.tp.edu.sg/landing/alumni.html)
+**[Stay connected with TP!](https://www.tp.edu.sg/landing/alumni.html)**
