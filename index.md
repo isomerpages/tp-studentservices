@@ -25,10 +25,10 @@ sections:
           url: /Alumni
   - infopic:
       title: Important Announcement
-      description: Temasek Polytechnic Graduation 2022
+      description: Early Admissions Exercise 2022
       button: For more information
-      url: https://www.tp.edu.sg/graduation/
-      image: /images/logo-grad.png
+      url: https://www.tp.edu.sg/eae/
+      image: /images/EAE.jpg
       alt: Image alt text
   - infopic:
       title: Wayfinding & Facilities
