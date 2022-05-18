@@ -17,4 +17,6 @@ The Temasek SkillsFuture Academy (TSA) is committed to the SkillsFuture initiati
 
 Our wide range of part-time courses are organised into six Industry Transformation Map (ITM)* clusters and their respective industries, providing adult learners with the relevant skills and valuable knowledge to meet the challenges of the future economy.
 
+**Singapore’s Ministry of Trade and Industry introduced the ITMs to drive industry transformation.*
+
 [For more information. ](https://www.tp.edu.sg/landing/adult-learners.html)
