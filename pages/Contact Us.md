@@ -6,7 +6,7 @@ description: ""
 #### **Directory of Services**
 
 
-|   **Enquiry**    |**Email**  | **Tel** |
+|   |**Email**  | **Tel** |
 | -------- | -------- | -------- |
 | Admissions    | admissions@tp.edu.sg | 6780 4201 |
 | Education & Career Guidance | getahead@tp.edu.sg | 6780 5959 |
@@ -23,7 +23,7 @@ description: ""
 #### **Schools**
 
 
-| **Schools** | **Email** | **Tel**|
+|  | **Email** | **Tel**|
 | -------- | -------- | -------- |
 | School of Applied Science | AScHotline@tp.edu.sg | 6780 5322|
 | School of Business | bushotline@tp.edu.sg | 6780 5127|
