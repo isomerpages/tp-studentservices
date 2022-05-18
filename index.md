@@ -19,7 +19,7 @@ sections:
           url: https://studenttpedu.sharepoint.com/sites/StudentServicesDigital
         - title: Adult Learners
           description: Information & Services
-          url: https://www.tp.edu.sg/landing/adult-learners.html
+          url: /CET
         - title: Alumni
           description: Information & Services
           url: /Alumni
