@@ -17,7 +17,7 @@ sections:
         - title: Students 🔒
           description: Information & Services
           url: https://studenttpedu.sharepoint.com/sites/StudentServicesDigital
-        - title: Adult Learners 🔒
+        - title: Adult Learners
           description: Information & Services
           url: https://www.tp.edu.sg/landing/adult-learners.html
         - title: Alumni
@@ -51,7 +51,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: Contact Information
-      description: Looking for a particular staff or department?
+      description: Looking for a particular school or department?
       button: Contact us
       url: /contactus
 ---
