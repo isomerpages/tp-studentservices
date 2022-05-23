@@ -1,0 +1,5 @@
+collections:
+  student:
+    output: true
+    order:
+      - Student Services.md

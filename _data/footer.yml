@@ -1,10 +1,12 @@
-contact_us: /contact-us/
+contact_us: https://www.tp.edu.sg/contactus
 show_reach: true
-feedback: 
-faq: /faq/
+feedback: https://tp.questionpro.com/a/TakeSurvey?tt=puLuRg6R9VY%3D
+faq: https://www.tp.edu.sg/contactus
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/temasekpoly
+  twitter: https://twitter.com/temasekpoly
+  youtube: https://www.youtube.com/user/temasekpolysg
+  instagram: https://www.instagram.com/temasekpoly/
+  linkedin: https://www.linkedin.com/school/temasek-polytechnic/
+  telegram: https://t.me/temasekpolyofficial
+  tiktok: https://www.tiktok.com/@temasekpoly
