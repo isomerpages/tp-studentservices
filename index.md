@@ -46,8 +46,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Student Services Centre
-      description: "Administration Block 9, Level 2, Lift Lobby C "
-      image: /images/TP Campus Map_SS_location3.jpg
+      description: For walk-in assistance and certification  of TP Academic Results
+        and Diploma Certificate
+      image: /images/TP Campus Map_SS_location4.jpg
       alt: Image alt text
   - infobar:
       title: Contact Information
