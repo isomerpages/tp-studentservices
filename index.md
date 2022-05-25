@@ -1,8 +1,7 @@
 ---
 layout: homepage
 title: Student Services Digital
-description: To delight customers by providing intuitive and seamless
-  touchpoints for student services
+description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
 notification: ""
@@ -56,3 +55,4 @@ sections:
       button: Contact us
       url: /contactus
 ---
+
