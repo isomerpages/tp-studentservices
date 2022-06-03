@@ -10,10 +10,12 @@ description: ""
 | -------- | -------- | -------- |
 | Admissions    | admissions@tp.edu.sg | 6780 4201 |
 | Education & Career Guidance | getahead@tp.edu.sg | 6780 5959 |
+| Examinations | examinations@tp.edu.sg | 6780 4200 |
 | Fault Reporting | efmfaultreporting@tp.edu.sg | 6780 5955 |
-| Fees & Payment | fnahotline@tp.edu.sg | 6780 4204|
+| Fees & Payment | fnahotline@tp.edu.sg | 6780 4202|
 | Financial Aid & Awards | bursary@tp.edu.sg | 6780 5959 |
 | Library | asklib@tp.edu.sg | 6780 5772 |
+| Lost & Found | lostandfound@tp.edu.sg | 6780 5999 |
 | International Students Office | isohotline@tp.edu.sg | -    |
 | IT Service Management (ITSM) Centre | itsm@tp.edu.sg | 6780 5933 |
 | Student Care / SEN Support | care@tp.edu.sg | 6780 5959 |
