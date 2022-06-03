@@ -9,7 +9,7 @@ description: ""
 |   |**Email**  | **Tel** |
 | -------- | -------- | -------- |
 | Admissions    | admissions@tp.edu.sg | 6780 4201 |
-| Education & Career Guidance | getahead@tp.edu.sg | 6780 5959 |
+| Education & Career Guidance | getahead@tp.edu.sg |- |
 | Examinations | examinations@tp.edu.sg | 6780 4200 |
 | Fault Reporting | efmfaultreporting@tp.edu.sg | 6780 5955 |
 | Fees & Payment | fnahotline@tp.edu.sg | 6780 4202|
