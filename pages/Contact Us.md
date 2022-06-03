@@ -27,10 +27,10 @@ description: ""
 
 |  | **Email** | **Tel**|
 | -------- | -------- | -------- |
-| School of Applied Science | AScHotline@tp.edu.sg | 6780 5322|
+| School of Applied Science | aschotline@tp.edu.sg | 6780 5322|
 | School of Business | bushotline@tp.edu.sg | 6780 5127|
 | Centre for Foundation Studies | cfs@tp.edu.sg |6780 4220 |
 | School of Design | deshotline@tp.edu.sg | 6780 5133 |
 | School of Engineering | enghotline@tp.edu.sg |6780 5144 |
 | School of Humanities & Social Sciences | hsshotline@tp.edu.sg | 6780 6565 |
-| School of Informatics & IT | IIT@tp.edu.sg |6780 5158 |
+| School of Informatics & IT | iit@tp.edu.sg |6780 5158 |
