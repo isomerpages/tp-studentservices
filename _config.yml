@@ -16,8 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: resource
-description: To delight customers by providing intuitive and seamless
-  touchpoints for student services
+description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 permalink: none
 baseurl: ""
 exclude:
