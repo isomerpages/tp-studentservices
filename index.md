@@ -23,7 +23,7 @@ sections:
           description: Information & Services
           url: /Alumni
   - infopic:
-      title: Important Announcement
+      title: Key Highlight
       description: Don’t miss the Youth Hub on TP Campus come 26-27 October! Organised
         by Young NTUC Youth Taskforce
       button: Come say hello
