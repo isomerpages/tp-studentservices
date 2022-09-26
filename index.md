@@ -23,11 +23,13 @@ sections:
           description: Information & Services
           url: /Alumni
   - infopic:
-      title: Important Announcement
-      description: Early Admissions Exercise 2022
-      button: For more information
-      url: https://www.tp.edu.sg/eae/
-      image: /images/EAE.jpg
+      title: "Youth Hub "
+      description: Don’t miss the Youth Hub on TP Campus come 26-27 October! Organised
+        by Young NTUC Youth Taskforce
+      button: Come say hello
+      url: https://youthtaskforce.sg/
+      image: /images/YTF_Temasek Poly_Web Banners_20220912_FA_Social Media
+        (608x1080px).jpg
       alt: Image alt text
   - infopic:
       title: Wayfinding & Facilities
@@ -55,4 +57,3 @@ sections:
       button: Contact us
       url: /contactus
 ---
-
