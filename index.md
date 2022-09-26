@@ -38,10 +38,10 @@ sections:
       image: /images/TP Map.png
       alt: Image alt text
   - infopic:
-      title: TP Virtual Campus
+      title: TP Events
       description: Check out what's happening at TP
       button: Let's Go
-      url: https://virtualcampus.tp.edu.sg/
+      url: https://virtualcampus.tp.edu.sg/events/calendar/
       image: /images/Students Landscape.png
       alt: Image alt text
   - infopic:
