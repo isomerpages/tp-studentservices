@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contactus
+permalink: /contactus/
 description: ""
 ---
 #### **Directory of Services**
@@ -12,7 +12,7 @@ description: ""
 | Education & Career Guidance | getahead@tp.edu.sg |- |
 | Examinations | examinations@tp.edu.sg | 6780 4200 |
 | Fault Reporting | efmfaultreporting@tp.edu.sg | 6780 5955 |
-| Fees & Payment | fnahotline@tp.edu.sg | 6780 4202|
+| Fees & Payment | [Student Finance Enquiry](https://go.gov.sg/fnahotline) | 6780 4202|
 | Financial Aid & Awards | bursary@tp.edu.sg | 6780 5959 |
 | Library | asklib@tp.edu.sg | 6780 5772 |
 | Lost & Found | lostandfound@tp.edu.sg | 6780 5999 |
