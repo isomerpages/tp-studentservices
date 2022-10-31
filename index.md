@@ -29,6 +29,7 @@ sections:
       button: Check out TPOF here
       url: tp.edu.sg/tpof
       alt: Image alt text
+      image: /images/Web-Banner2.jpg
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
