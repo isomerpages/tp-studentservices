@@ -24,11 +24,10 @@ sections:
           url: /Alumni
   - infopic:
       title: Key Highlight
-      description: Don’t miss the Youth Hub on TP Campus come 26-27 October! Organised
-        by Young NTUC Youth Taskforce
-      button: Come say hello
-      url: https://youthtaskforce.sg/
-      image: /images/YTF_Temasek Poly_Web Banners_20220912_Ver2.jpg
+      description: Don’t just anticipate your future, create it! At TPOF 2022, there’s
+        something for every student and alumnus.
+      button: Check out TPOF here
+      url: tp.edu.sg/tpof
       alt: Image alt text
   - infopic:
       title: Wayfinding & Facilities
