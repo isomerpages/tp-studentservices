@@ -27,7 +27,7 @@ sections:
       description: Don’t just anticipate your future, create it! At TPOF 2022, there’s
         something for every student and alumnus.
       button: Check out TPOF here
-      url: tp.edu.sg/tpof
+      url: https://tp.edu.sg/tpof
       alt: Image alt text
       image: /images/Web-Banner2.jpg
   - infopic:
