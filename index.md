@@ -4,8 +4,8 @@ title: Student Services Digital
 description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Student Services Centre will be closed at 5pm on Friday, 18 Nov -
-  Happy Eat With Your Family Day!
+notification: Student Services Centre will be closed at 5pm on Friday, 18 Nov,
+  in conjunction with Eat With Your Family Day.
 sections:
   - hero:
       background: /images/SSD_Banner04.png
