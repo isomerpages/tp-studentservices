@@ -4,7 +4,8 @@ title: Student Services Digital
 description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: Eat With Your Family Day is happening on Friday, 18 Nov! Student
+  Services Centre will be closed at 5pm.
 sections:
   - hero:
       background: /images/SSD_Banner04.png
