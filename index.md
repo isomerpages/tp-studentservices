@@ -4,8 +4,8 @@ title: Student Services Digital
 description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Student Services Centre will be closed at 5pm on 18 Nov (Fri), in
-  conjunction with Eat With Your Family Day.
+notification: Paid transactions will be suspended from 30/12/22 to 02/01/23
+  (9am) for the adjustment of GST.
 sections:
   - hero:
       background: /images/SSD_Banner04.png
@@ -25,12 +25,11 @@ sections:
           url: /Alumni
   - infopic:
       title: Key Highlight
-      description: Don’t just anticipate your future, create it! At TPOF 2022, there’s
-        something for every student and alumnus.
-      button: Check out TPOF here
-      url: https://tp.edu.sg/tpof
+      description: TP Open House 2023
+      button: Your tomorrow's a click away!
+      url: https://www.tp.edu.sg/openhouse/
       alt: Image alt text
-      image: /images/Web-Banner2.jpg
+      image: /images/MicrosoftTeams-image.png
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
