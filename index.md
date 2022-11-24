@@ -25,12 +25,11 @@ sections:
           url: /Alumni
   - infopic:
       title: Key Highlight
-      description: Don’t just anticipate your future, create it! At TPOF 2022, there’s
-        something for every student and alumnus.
-      button: Check out TPOF here
-      url: https://tp.edu.sg/tpof
+      description: TP Open House 2023
+      button: Your tomorrow's a click away!
+      url: https://www.tp.edu.sg/openhouse/
       alt: Image alt text
-      image: /images/Web-Banner2.jpg
+      image: /images/MicrosoftTeams-image.png
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
