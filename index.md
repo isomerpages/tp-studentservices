@@ -4,8 +4,7 @@ title: Student Services Digital
 description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Paid transactions will be suspended from 30/12/22 to 02/01/23
-  (9am) for the adjustment of GST.
+notification: ""
 sections:
   - hero:
       background: /images/SSD_Banner04.png
