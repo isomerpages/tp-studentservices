@@ -24,7 +24,7 @@ sections:
           url: /Alumni
   - infopic:
       title: Key Highlight
-      description: TP JAE 2023
+      description: Joint Admissions Exercise 2023
       button: Your tomorrow's a click away!
       url: https://www.tp.edu.sg/jae/
       alt: Image alt text
