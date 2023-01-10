@@ -24,11 +24,11 @@ sections:
           url: /Alumni
   - infopic:
       title: Key Highlight
-      description: TP Open House 2023
+      description: Joint Admissions Exercise 2023
       button: Your tomorrow's a click away!
-      url: https://www.tp.edu.sg/openhouse/
+      url: https://www.tp.edu.sg/jae/
       alt: Image alt text
-      image: /images/MicrosoftTeams-image.png
+      image: /images/JAE.jpg
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
