@@ -4,7 +4,8 @@ title: Student Services Digital
 description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: Student Services Centre will be closed for a departmental event on
+  3 Feb 23 (Fri). The centre will remain open for JAE Appeal enquiries only.
 sections:
   - hero:
       background: /images/SSD_Banner04.png
