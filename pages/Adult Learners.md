@@ -10,6 +10,7 @@ description: ""
 * [Application for Certificate / Replacement of Diploma](https://forms.office.com/r/DsytRFBsLV)
 * [Request for Replacement of Matriculation Card](https://forms.office.com/r/3tj1FVZJq7)
 * [Application for Review of Subject Grade](https://forms.office.com/r/bTryYQXP2r)
+* [Application for Course Completion Letter for Award of Diploma/Certificate](https://forms.office.com/r/DsytRFBsLV)
 * [Request for Student Status Letter](https://forms.office.com/r/8Jt6Gx8bmu)
 * [Application for Withdrawal](https://forms.office.com/r/MpaFxK42wi)
 * [Submission of Medical Leave / Application for Leave of Absence](https://forms.office.com/r/sbexvCDKY5)
