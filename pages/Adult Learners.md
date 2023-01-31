@@ -7,7 +7,7 @@ description: ""
 
 * [Request for Statement of Results for Part-Time Courses](https://forms.office.com/r/EdPFL3J5RT)
 * [Request for Academic Transcript](https://forms.office.com/r/bNTMhftBM2)
-* [Application for Certificate / Replacement of Diploma](https://forms.office.com/r/DsytRFBsLV)
+* [Application for Certificate / Replacement of Diploma](https://forms.office.com/r/v5ysN45MAM)
 * [Request for Replacement of Matriculation Card](https://forms.office.com/r/3tj1FVZJq7)
 * [Application for Review of Subject Grade](https://forms.office.com/r/bTryYQXP2r)
 * [Application for Course Completion Letter for Award of Diploma/Certificate](https://forms.office.com/r/DsytRFBsLV)
