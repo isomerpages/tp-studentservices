@@ -9,7 +9,7 @@ description: ""
 * [Request for Transcript](https://forms.office.com/r/bNTMhftBM2)
 * [Request for Replacement of Diploma / Request for Certificate](https://forms.office.com/r/v5ysN45MAM)
 * [Request for Replacement of Matriculation Card for Part-Time Courses](https://www.tp.edu.sg/content/dam/tp-web/files/student-portal/forms/matriccard.pdf)
-* [Application for Withdrawal](https://www.tp.edu.sg/content/dam/tp-web/files/student-portal/forms/tsa_withdrawal.pdf)
+* [Application for Withdrawal](https://forms.office.com/r/MpaFxK42wi)
 
 # Skills Upgrading and Mastery
 The Temasek SkillsFuture Academy (TSA) is committed to the SkillsFuture initiatives and the professional development of adult learners.
