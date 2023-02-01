@@ -1,15 +1,16 @@
 ---
 title: Adult Learners
-permalink: /CET
+permalink: /CET/
 description: ""
 ---
 **Application Forms & Services (For Part-Time Courses Only):**
 
-* [Request for Certification Letter for Award of Diploma / Certificate](https://www.tp.edu.sg/content/dam/tp-web/files/student-portal/forms/certificationletter.pdf)
-* [Request for Transcript](https://www.tp.edu.sg/content/dam/tp-web/files/student-portal/forms/requesttranscript_cec.pdf)
-* [Request for Replacement of Diploma / Request for Certificate](https://www.tp.edu.sg/content/dam/tp-web/files/student-portal/forms/request_for_reprint_of_cert.pdf)
-* [Request for Replacement of Matriculation Card for Part-Time Courses](https://www.tp.edu.sg/content/dam/tp-web/files/student-portal/forms/matriccard.pdf)
-* [Application for Withdrawal](https://www.tp.edu.sg/content/dam/tp-web/files/student-portal/forms/tsa_withdrawal.pdf)
+* [Request for Statement of Results for Part-Time Courses](https://forms.office.com/r/EdPFL3J5RT)
+* [Request for Academic Transcript](https://forms.office.com/r/bNTMhftBM2)
+* [Application for Certificate / Replacement of Diploma](https://forms.office.com/r/v5ysN45MAM)
+* [Request for Replacement of Matriculation Card](https://forms.office.com/r/3tj1FVZJq7)
+* [Application for Review of Subject Grade](https://forms.office.com/r/bTryYQXP2r)
+* [Application for Course Completion Letter for Award of Diploma/Certificate](https://forms.office.com/r/DsytRFBsLV)
 
 # Skills Upgrading and Mastery
 The Temasek SkillsFuture Academy (TSA) is committed to the SkillsFuture initiatives and the professional development of adult learners.
