@@ -4,9 +4,7 @@ title: Student Services Digital
 description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Transactions and collections will not be available at Student
-  Services on 3 Feb 23 (Fri). The centre will be open from 9am to 5pm for JAE
-  Appeal enquiries only.
+notification: ""
 sections:
   - hero:
       background: /images/SSD_Banner04.png
