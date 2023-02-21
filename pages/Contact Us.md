@@ -15,7 +15,7 @@ description: ""
 | Fees & Payment | [Student Finance Enquiry](https://go.gov.sg/fnahotline) | 6780 4202|
 | Financial Aid & Awards | bursary@tp.edu.sg | 6780 5959 |
 | Library | asklib@tp.edu.sg | 6780 5772 |
-| Lost & Found | lostandfound@tp.edu.sg | 6780 5999 |
+| Lost & Found | lostandfound@tp.edu.sg | 6780 5975 |
 | International Students Office | isohotline@tp.edu.sg | -    |
 | IT Service Management (ITSM) Centre | itsm@tp.edu.sg | 6780 5933 |
 | Student Care / SEN Support | care@tp.edu.sg | 6780 5959 |
