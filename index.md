@@ -29,7 +29,7 @@ sections:
         the CCAs offered in TP!
       url: https://virtualcampus.tp.edu.sg/events/ccafair2023/
       alt: Image alt text
-      image: /images/JAE.jpg
+      image: /images/CCA Fair 2023.jpg
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
