@@ -30,6 +30,7 @@ sections:
       url: https://virtualcampus.tp.edu.sg/events/ccafair2023/
       alt: Image alt text
       image: /images/CCA Fair 2023.jpg
+      button: JOIN IN THE ACTION
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
