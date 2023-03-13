@@ -4,8 +4,7 @@ title: Student Services Digital
 description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Student Services Centre will be closed at 5pm on 10 Mar (Fri), in
-  conjunction with Eat With Your Family Day
+notification: ""
 sections:
   - hero:
       background: /images/SSD_Banner04.png
@@ -24,12 +23,14 @@ sections:
           description: Information & Services
           url: /Alumni
   - infopic:
-      title: Key Highlight
-      description: Joint Admissions Exercise 2023
-      button: Your tomorrow's a click away!
-      url: https://www.tp.edu.sg/jae/
+      title: CCA Fair 2023 (26-27 April)
+      description: Are you keen to channel the Team Temasek spirit and make your days
+        on campus count? Check out this exciting event to find out more about
+        the CCAs offered in TP!
+      url: https://virtualcampus.tp.edu.sg/events/ccafair2023/
       alt: Image alt text
-      image: /images/JAE.jpg
+      image: /images/CCA Fair 2023.jpg
+      button: JOIN IN THE ACTION
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
