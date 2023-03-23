@@ -4,7 +4,9 @@ title: Student Services Digital
 description: "Access Student Services digitally anytime and anywhere at your fingertips! "
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: For all requests, please first submit your request online, make
+  payment and email the receipt to Student Services. You will receive an email
+  when your requested document is ready for collection.
 sections:
   - hero:
       background: /images/SSD_Banner04.png
