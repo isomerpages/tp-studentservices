@@ -5,9 +5,9 @@ description: "Access Student Services digitally anytime and anywhere at your fin
 image: /images/SSD_Banner05.png
 permalink: /
 notification: "APPLICATION FOR STATEMENT OF EXAMINATION RESULTS AND TRANSCRIPTS:
-  Please submit your applications online and follow the instructions to COMPLETE
-  YOUR PAYMENT. Kindly wait for the confirmation email before proceeding to
-  Student Services for collection. "
+  Please submit your applications online and COMPLETE YOUR PAYMENT. Kindly wait
+  for the confirmation email before proceeding to Student Services for
+  collection. "
 sections:
   - hero:
       background: /images/SSD_Banner04.png
