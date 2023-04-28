@@ -23,14 +23,13 @@ sections:
           description: Information & Services
           url: /Alumni
   - infopic:
-      title: CCA Fair 2023 (26-27 April)
-      description: Are you keen to channel the Team Temasek spirit and make your days
-        on campus count? Check out this exciting event to find out more about
-        the CCAs offered in TP!
-      url: https://virtualcampus.tp.edu.sg/events/ccafair2023/
+      title: Key Highlight
+      description: Congratulations to all our graduands! You are about to reach
+        another milestone in your lives!
+      url: https://www.tp.edu.sg/graduation/
       alt: Image alt text
-      image: /images/CCA Fair 2023.jpg
-      button: JOIN IN THE ACTION
+      image: /images/tp grad 2023.JPG
+      button: graduation 2023
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
