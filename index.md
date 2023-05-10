@@ -24,12 +24,12 @@ sections:
           url: /Alumni
   - infopic:
       title: Key Highlight
-      description: Congratulations to all our graduands! You are about to reach
-        another milestone in your lives!
-      url: https://www.tp.edu.sg/graduation/
+      description: Take advantage of the Early Admission Exercise to kick-start your
+        journey towards creating your exciting tomorrow with TP!
+      url: https://www.tp.edu.sg/eae/
       alt: Image alt text
-      image: /images/tp grad 2023.JPG
-      button: graduation 2023
+      image: /images/banner-1.jpg
+      button: Find out more
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
