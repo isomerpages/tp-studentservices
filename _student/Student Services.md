@@ -1,6 +1,6 @@
 ---
 title: Student Services
-permalink: /student
+permalink: /student/
 description: ""
 image: /images/course-search-img.png
 ---

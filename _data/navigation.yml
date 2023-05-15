@@ -17,7 +17,7 @@ links:
       - title: Fees & Financial Matters
         url: https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters.html
   - title: Adult Learners
-    url: /CET
+    url: /cet
     sublinks:
       - title: Academic Calendar (CET)
         url: https://www.tp.edu.sg/schools-and-courses/adult-learners/academic-calendar.html
@@ -25,7 +25,7 @@ links:
         url: https://www.tp.edu.sg/landing/adult-learners.html
       - title: Funding for Adult Learners
         url: https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters.html#fundingforadultlearners
-  - title: Alumni
+  - title: alumni
     url: /Alumni
     sublinks:
       - title: Alumni Membership & Services

@@ -1,6 +1,6 @@
 ---
 title: Adult Learners
-permalink: /CET/
+permalink: /cet/
 description: ""
 ---
 **Application Forms & Services (For Part-Time Courses Only):**
