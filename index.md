@@ -1,10 +1,12 @@
 ---
 layout: homepage
 title: Student Services Digital
-description: "Access Student Services digitally anytime and anywhere at your fingertips! "
+description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: Student Services will close at 5:00pm on 26  May 2023 (Fri) in
+  conjunction with the Eat With Your Family Day.  We apologise for any
+  inconvenience caused.
 sections:
   - hero:
       background: /images/SSD_Banner04.png
