@@ -50,7 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://tpsite-test2-staging.netlify.app
-prod: https://tpsite-test2-prod.netlify.app
+staging: https://staging.d2wl6b84kga1ce.amplifyapp.com/
+prod: https://master.d2wl6b84kga1ce.amplifyapp.com/
 shareicon: /images/SSD_Banner05.png
 is_government: false

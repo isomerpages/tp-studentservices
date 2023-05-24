@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /Alumni
+permalink: /alumni/
 description: ""
 ---
 # Welcome To TP Alumni
