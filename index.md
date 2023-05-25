@@ -20,10 +20,10 @@ sections:
           url: https://studenttpedu.sharepoint.com/sites/StudentServicesDigital
         - title: Adult Learners
           description: Information & Services
-          url: /CET
+          url: https://studentservices.tp.edu.sg/cet/
         - title: Alumni
           description: Information & Services
-          url: /Alumni
+          url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
       description: Take advantage of the Early Admission Exercise to kick-start your
