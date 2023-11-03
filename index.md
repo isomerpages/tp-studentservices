@@ -24,11 +24,12 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Take advantage of the Early Admission Exercise to kick-start your
-        journey towards creating your exciting tomorrow with TP!
-      url: https://www.tp.edu.sg/eae/
+      description: Temasek Polytechnic Opportunity Fest is back! This time, as a
+        2-part fiesta featuring webinars on 7 & 8 Nov and a physical roadshow on
+        21 & 22 Nov.
+      url: https://tpof2023.com/
       alt: Image alt text
-      image: /images/banner-1.jpg
+      image: /images/tpof2023.png
       button: Find out more
   - infopic:
       title: Wayfinding & Facilities
