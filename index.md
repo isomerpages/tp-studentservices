@@ -43,7 +43,7 @@ sections:
       description: Check out what's happening at TP
       button: Let's Go
       url: https://virtualcampus.tp.edu.sg/events/calendar/
-      image: /images/Students Landscape.png
+      image: /images/student.JPG
       alt: Image alt text
   - infopic:
       title: Student Services Centre
