@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SSD_Banner04.png
+      background: /images/ssd photo.JPG
       title: Student Services Digital
       key_highlights:
         - title: Incoming Students
@@ -36,14 +36,14 @@ sections:
       description: TP Facilities & Amenities
       button: Find out more
       url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-      image: /images/TP Map.png
+      image: /images/tp campus map.jfif
       alt: Image alt text
   - infopic:
       title: TP Events
       description: Check out what's happening at TP
       button: Let's Go
       url: https://virtualcampus.tp.edu.sg/events/calendar/
-      image: /images/Students Landscape.png
+      image: /images/student.JPG
       alt: Image alt text
   - infopic:
       title: Student Services Centre
