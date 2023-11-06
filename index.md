@@ -36,7 +36,7 @@ sections:
       description: TP Facilities & Amenities
       button: Find out more
       url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-      image: /images/TP Map.png
+      image: /images/tp campus map.jfif
       alt: Image alt text
   - infopic:
       title: TP Events
