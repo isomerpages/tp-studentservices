@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SSD_Banner04.png
+      background: /images/ssd photo.JPG
       title: Student Services Digital
       key_highlights:
         - title: Incoming Students
