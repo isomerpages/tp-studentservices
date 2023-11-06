@@ -29,7 +29,7 @@ sections:
         21 & 22 Nov.
       url: https://tpof2023.com/
       alt: Image alt text
-      image: /images/ssd banner.JPG
+      image: /images/ssd banner (small).JPG
       button: Find out more
   - infopic:
       title: Wayfinding & Facilities
