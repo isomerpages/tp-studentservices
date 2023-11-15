@@ -1,7 +1,8 @@
 ---
 title: Adult Learners
 permalink: /cet/
-description: ""
+description: TP Adult Learners
+variant: tiptap
 ---
 **Application Forms & Services (For Part-Time Courses Only):**
 

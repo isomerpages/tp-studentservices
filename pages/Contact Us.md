@@ -1,7 +1,8 @@
 ---
 title: Contact Us
 permalink: /contactus/
-description: ""
+description: TP Contact Us
+variant: tiptap
 ---
 #### **Directory of Services**
 

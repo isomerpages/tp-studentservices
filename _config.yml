@@ -1,5 +1,5 @@
 title: Student Services Digital
-url: ""
+url: https://studentservices.tp.edu.sg
 favicon: /images/TP Icon copy.png
 colors:
   primary-color: "#990000"
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: resource
-description: "Access Student Services digitally anytime and anywhere at your fingertips! "
+description: Access Student Services digitally anytime and anywhere at your fingertips!
 permalink: none
 baseurl: ""
 exclude:
@@ -54,3 +54,6 @@ staging: https://staging.d2wl6b84kga1ce.amplifyapp.com/
 prod: https://master.d2wl6b84kga1ce.amplifyapp.com/
 shareicon: /images/SSD_Banner05.png
 is_government: false
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""

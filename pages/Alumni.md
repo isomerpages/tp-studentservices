@@ -1,7 +1,8 @@
 ---
 title: Alumni
 permalink: /alumni/
-description: ""
+description: TP Alumni
+variant: tiptap
 ---
 # Welcome To TP Alumni
 
