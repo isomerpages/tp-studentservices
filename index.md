@@ -24,12 +24,11 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Temasek Polytechnic Opportunity Fest is back! This time, as a
-        2-part fiesta featuring webinars on 7 & 8 Nov and a physical roadshow on
-        21 & 22 Nov.
-      url: https://tpof2023.com/
+      description: Are you a student getting ready to receive your O-Level results?
+        Don’t miss out on Temasek Poly Open House happening on 4-6 Jan 2024!
+      url: https://www.tp.edu.sg/openhouse/
       alt: Image alt text
-      image: /images/tpof2023.png
+      image: /images/oh24.png
       button: Find out more
   - infopic:
       title: Wayfinding & Facilities
