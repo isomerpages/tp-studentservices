@@ -4,23 +4,4 @@ permalink: /cet/
 description: TP Adult Learners
 variant: tiptap
 ---
-**Application Forms & Services (For Part-Time Courses Only):**
-
-* [Request for Student Status Letter](https://forms.office.com/r/8Jt6Gx8bmu)
-* [Submission of Medical Leave / Application for Leave of Absence](https://forms.office.com/r/sbexvCDKY5)
-* [Request for Statement of Results for Part-Time Courses](https://forms.office.com/r/EdPFL3J5RT)
-* [Request for Academic Transcript](https://forms.office.com/r/bNTMhftBM2)
-* [Application for Certificate / Replacement of Diploma](https://forms.office.com/r/v5ysN45MAM)
-* [Request for Replacement of Matriculation Card](https://forms.office.com/r/3tj1FVZJq7)
-* [Application for Review of Subject Grade](https://forms.office.com/r/bTryYQXP2r)
-* [Application for Course Completion Letter for Award of Diploma/Certificate](https://forms.office.com/r/DsytRFBsLV)
-
-# Skills Upgrading and Mastery
-The Temasek SkillsFuture Academy (TSA) is committed to the SkillsFuture initiatives and the professional development of adult learners.
- 
-
-Our wide range of part-time courses are organised into six Industry Transformation Map (ITM)* clusters and their respective industries, providing adult learners with the relevant skills and valuable knowledge to meet the challenges of the future economy.
-
-**Singapore’s Ministry of Trade and Industry introduced the ITMs to drive industry transformation.*
-
-[For more information. ](https://www.tp.edu.sg/landing/adult-learners.html)
+<p><strong>Application Forms &amp; Services (For Part-Time Courses Only):</strong></p><ul data-tight="true" class="tight"><li><p><a href="https://forms.office.com/r/8Jt6Gx8bmu" rel="noopener noreferrer nofollow" target="_blank">Request for Student Status Letter</a></p></li><li><p><a href="https://forms.office.com/r/sbexvCDKY5" rel="noopener noreferrer nofollow" target="_blank">Submission of Medical Leave / Application for Leave of Absence</a></p></li><li><p><a href="https://forms.office.com/r/EdPFL3J5RT" rel="noopener noreferrer nofollow" target="_blank">Request for Statement of Results for Part-Time Courses</a></p></li><li><p><a href="https://forms.office.com/r/bNTMhftBM2" rel="noopener noreferrer nofollow" target="_blank">Request for Academic Transcript</a></p></li><li><p><a href="https://forms.office.com/r/v5ysN45MAM" rel="noopener noreferrer nofollow" target="_blank">Application for Certificate / Replacement of Diploma</a></p></li><li><p><a href="https://forms.office.com/r/DsytRFBsLV" rel="noopener noreferrer nofollow" target="_blank">Application for Course Completion Letter&nbsp;for Award of Diploma/Certificate</a></p></li></ul><h1>Skills Upgrading and Mastery</h1><p>The Temasek SkillsFuture Academy (TSA) is committed to the SkillsFuture initiatives and the professional development of adult learners.</p><p>Our wide range of part-time courses are organised into six Industry Transformation Map (ITM)* clusters and their respective industries, providing adult learners with the relevant skills and valuable knowledge to meet the challenges of the future economy.</p><p>*<em>Singapore’s Ministry of Trade and Industry introduced the ITMs to drive industry transformation.</em></p><p><a href="https://www.tp.edu.sg/landing/adult-learners.html" rel="noopener noreferrer nofollow" target="_blank">For more information.</a></p>
