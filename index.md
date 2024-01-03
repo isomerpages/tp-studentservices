@@ -4,10 +4,7 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: "Dear applicants, kindly note that the replacement of
-  Matriculation Card, application for Statement of Examination Results,
-  Transcripts and Diploma Certificate will be suspended for GST changes from
-  28th Dec (9am) to 2nd Jan (9am). We apologise for any inconvenience caused. "
+notification: ""
 sections:
   - hero:
       background: /images/ssd banner reduced.png
