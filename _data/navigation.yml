@@ -1,0 +1,36 @@
+logo: /images/TPlogo_300.png
+links:
+  - title: Incoming Students
+    url: https://www.tp.edu.sg/admissions-and-finance/course-acceptance-enrolment.html
+    sublinks:
+      - title: Course Acceptance & Enrolment
+        url: https://www.tp.edu.sg/admissions-and-finance/course-acceptance-enrolment.html
+      - title: Bring Your Own Device (BYOD)
+        url: https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#byod
+      - title: International Students
+        url: https://www.tp.edu.sg/admissions-and-finance/international-students.html
+  - title: Students
+    url: https://studenttpedu.sharepoint.com/sites/StudentServicesDigital
+    sublinks:
+      - title: Academic Calendar
+        url: https://www.tp.edu.sg/schools-and-courses/for-current-students/academic-calendar.html
+      - title: Fees & Financial Matters
+        url: https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters.html
+  - title: Adult Learners
+    url: /cet
+    sublinks:
+      - title: Academic Calendar (CET)
+        url: https://www.tp.edu.sg/schools-and-courses/adult-learners/academic-calendar.html
+      - title: Explore Courses
+        url: https://www.tp.edu.sg/landing/adult-learners.html
+      - title: Funding for Adult Learners
+        url: https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters.html#fundingforadultlearners
+  - title: Alumni
+    url: https://studentservices.tp.edu.sg/alumni/
+    sublinks:
+      - title: Alumni Membership & Services
+        url: https://www.tp.edu.sg/landing/alumni/alumni-membership-and-services.html
+      - title: Update Personal Particulars
+        url: https://form.gov.sg/#!/5eec8b9da56c390011f8583d
+      - title: Skills Upgrading and Mastery
+        url: https://www.tp.edu.sg/research-and-industry/temasek-skillsfuture-academy.html
