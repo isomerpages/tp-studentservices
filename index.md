@@ -4,8 +4,7 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Our in-person assistance and collection will not be available in
-  the centre on Friday, 26 Jan. We apologise for any inconvenience caused.
+notification: ""
 sections:
   - hero:
       background: /images/ssd banner reduced.png
