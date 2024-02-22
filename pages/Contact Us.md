@@ -161,7 +161,8 @@ variant: tiptap
 <p>tsa@tp.edu.sg</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>6780 6361 (Whatsapp only)</p>
+<p>6780 6361</p>
+<p>(Whatsapp only)</p>
 </td>
 </tr>
 <tr>
