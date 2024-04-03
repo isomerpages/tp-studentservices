@@ -24,11 +24,11 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Are you a student getting ready to receive your O-Level results?
-        Don’t miss out on Temasek Poly Open House happening on 4-6 Jan 2024!
-      url: https://www.tp.edu.sg/openhouse/
+      description: Discover your passion. Unleash your creativity. Forge lasting
+        friendships. Maximise your fun.
+      url: https://virtualcampus.tp.edu.sg/events/ccafair2024/
       alt: Image alt text
-      image: /images/oh24.png
+      image: /images/CCA Fair 2023.jpg
       button: Find out more
   - infopic:
       title: Wayfinding & Facilities
