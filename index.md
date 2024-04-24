@@ -24,11 +24,11 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Discover your passion. Unleash your creativity. Forge lasting
-        friendships. Maximise your fun.
-      url: https://virtualcampus.tp.edu.sg/events/ccafair2024/
+      description: Congratulations to all our graduands! You are about to reach
+        another milestone in your lives.
+      url: https://www.tp.edu.sg/graduation/
       alt: Image alt text
-      image: /images/CCA Fair 2023.jpg
+      image: /images/Grad.jpg
       button: Find out more
   - infopic:
       title: Wayfinding & Facilities
