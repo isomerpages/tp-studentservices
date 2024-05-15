@@ -4,7 +4,9 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: Dear Customers,  Student Services will close at 5.00pm on Friday,
+  24 May 2024 in conjunction with  Eat With Your Family Day. We apologise for
+  the inconvenience caused.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
