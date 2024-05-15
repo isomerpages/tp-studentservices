@@ -26,11 +26,13 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Congratulations to all our graduands! You are about to reach
-        another milestone in your lives.
-      url: https://www.tp.edu.sg/graduation/
+      description: |-
+        GET R-EAE-DY
+        TO CREATE YOUR
+        TOMORROW
+      url: https://www.tp.edu.sg/eae/index.html#landing
       alt: Image alt text
-      image: /images/Grad.jpg
+      image: /images/EAE2024.jpg
       button: Find out more
   - infopic:
       title: Wayfinding & Facilities
