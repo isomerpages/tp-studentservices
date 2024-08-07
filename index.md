@@ -4,7 +4,9 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: Dear Customers, Student Services will be closed on 14 August (Wed)
+  from 11:30 am to 3:00 pm for a departmental event. Our in-person assistance
+  and collection will resume after 3:00 pm.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
@@ -24,10 +26,7 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: |-
-        GET R-EAE-DY
-        TO CREATE YOUR
-        TOMORROW
+      description: GET R-EAE-DY TO CREATE YOUR TOMORROW
       url: https://www.tp.edu.sg/eae/index.html#landing
       alt: Image alt text
       image: /images/EAE2024.jpg
