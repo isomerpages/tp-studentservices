@@ -5,7 +5,12 @@ description: TP Contact Us
 variant: tiptap
 ---
 <h4><strong>Directory of Services</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -161,7 +166,7 @@ variant: tiptap
 <p>tsa@tp.edu.sg</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>6780 1212</p>
+<p>6788 1212</p>
 </td>
 </tr>
 <tr>
@@ -191,7 +196,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Schools</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
