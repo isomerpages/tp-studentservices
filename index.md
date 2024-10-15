@@ -24,11 +24,9 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: GET R-EAE-DY TO CREATE YOUR TOMORROW
-      url: https://www.tp.edu.sg/eae/index.html#landing
+      description: Evacuation & Campus Shutdown Exercise
       alt: Image alt text
-      image: /images/EAE2024.jpg
-      button: Find out more
+      image: /images/OEI_ANNOUNCEMENT.png
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
