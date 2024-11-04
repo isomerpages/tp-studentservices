@@ -4,9 +4,9 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Dear customers, our in-person assistance and collection resume
-  after 3pm on 8 Nov 2024. If you need to reach us, you may your email enquiry
-  to studentservices@tp.edu.sg. Thank you.
+notification: Dear customers, on 8 Nov 2024, our in-person assistance and
+  collection services will resume after 3 p.m. If you need to reach us, please
+  send your inquiry to studentservices@tp.edu.sg. Thank you.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
