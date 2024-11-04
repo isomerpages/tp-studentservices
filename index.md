@@ -4,7 +4,9 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: Dear customers, please note that collection at Student Services
+  will only be available after 3pm on 8 Nov 2024. We apologise for any
+  inconvenience caused.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
