@@ -4,7 +4,9 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: Dear customers, please note that collection at Student Services
+  will only be available after 3pm on 8 Nov 2024. We apologise for any
+  inconvenience caused.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
@@ -24,9 +26,13 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Evacuation & Campus Shutdown Exercise
+      description: Join us for career and education event to equip, engage, and
+        empower students and alumni in exploring job and education
+        opportunities.
       alt: Image alt text
-      image: /images/OEI_ANNOUNCEMENT.png
+      image: /images/TPOF.jpg
+      url: https://tpof.tp.edu.sg/
+      button: Find out more!
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
