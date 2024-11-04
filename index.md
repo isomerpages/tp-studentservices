@@ -5,7 +5,7 @@ description: Access Student Services digitally anytime and anywhere at your fing
 image: /images/SSD_Banner05.png
 permalink: /
 notification: Dear customers, on 8 Nov 2024, our in-person assistance and
-  collection services will resume after 3 p.m. If you need to reach us, please
+  collection services will resume after 3 pm. If you need to reach us, please
   send your inquiry to studentservices@tp.edu.sg. Thank you.
 sections:
   - hero:
