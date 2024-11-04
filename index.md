@@ -24,9 +24,13 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Evacuation & Campus Shutdown Exercise
+      description: Join us for career and education event to equip, engage, and
+        empower students and alumni in exploring job and education
+        opportunities.
       alt: Image alt text
-      image: /images/OEI_ANNOUNCEMENT.png
+      image: /images/TPOF.jpg
+      url: https://tpof.tp.edu.sg/
+      button: Find out more!
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
