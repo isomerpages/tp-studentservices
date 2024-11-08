@@ -4,9 +4,9 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Dear customers, on 8 Nov 2024, our in-person assistance and
-  collection services will resume after 3 pm. If you need to reach us, please
-  send your inquiry to studentservices@tp.edu.sg. Thank you.
+notification: Dear customers, Student Services will close at 5pm on 15 Nov 2024
+  in conjunction with Eat With Your Family Day.  We apologise for the
+  inconvenience caused. Thank you.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
