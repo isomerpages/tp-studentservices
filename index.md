@@ -24,12 +24,10 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Join us for career and education event to equip, engage, and
-        empower students and alumni in exploring job and education
-        opportunities.
+      description: TP Open House is back!
       alt: Image alt text
-      image: /images/TPOF.jpg
-      url: https://tpof.tp.edu.sg/
+      image: /images/Open_House_2025.jpg
+      url: https://www.tp.edu.sg/openhouse/
       button: Find out more!
   - infopic:
       title: Wayfinding & Facilities
