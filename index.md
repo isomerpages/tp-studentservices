@@ -4,9 +4,9 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Dear Customers, Student Services will be closed from 12pm on
-  Christmas’ Eve.  We will resume our operation on 26 Dec 2024 (Thu).   We wish
-  all our customers a Merry Christmas!
+notification: Student Services will close at 12pm on Christmas Eve and New
+  Year's Eve.  We wish all our customers a Merry Christmas and a Joyous New
+  Year!
 sections:
   - hero:
       background: /images/ssd banner reduced.png
