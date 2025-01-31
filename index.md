@@ -4,9 +4,8 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Dear Customers,  Student Services will be closed from 12pm on
-  Chinese New Year Eve (28 Jan).   We will resume our operation on 31 Jan.   We
-  wish all customers a blessed Chinese New Year!
+notification: Dear Customers,  Student Services will be closed on 5 Feb (Wed)
+  for a Departmental event.   We will resume our operation on 6 Feb. Thank you.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
