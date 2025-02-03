@@ -4,8 +4,8 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Dear Customers,  Student Services will be closed on 5 Feb (Wed)
-  for a Departmental event.   We will resume our operation on 6 Feb. Thank you.
+notification: Dear Customers, Student Services will be closed on 5 Feb (Wed) and
+  7 Feb (Fri). Normal operations on 6 Feb. Thank you.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
@@ -25,11 +25,9 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: TP Open House is back!
+      description: Student Services closure for relocation.
       alt: Image alt text
-      image: /images/Open_House_2025.jpg
-      url: https://www.tp.edu.sg/openhouse/
-      button: Find out more!
+      image: /images/Relocating___Alumni___MOP__final_.png
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
