@@ -25,11 +25,9 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: TP Open House is back!
+      description: Student Services closure for relocation.
       alt: Image alt text
-      image: /images/Open_House_2025.jpg
-      url: https://www.tp.edu.sg/openhouse/
-      button: Find out more!
+      image: /images/Relocating___Alumni___MOP__final_.png
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
