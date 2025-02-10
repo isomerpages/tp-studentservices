@@ -34,7 +34,7 @@ sections:
       description: TP Facilities & Amenities
       button: Find out more
       url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-      image: /images/tp campus map.jfif
+      image: /images/Screenshot_2025_02_10_171128.png
       alt: Image alt text
   - infopic:
       title: TP Events
@@ -44,10 +44,10 @@ sections:
       image: /images/student.JPG
       alt: Image alt text
   - infopic:
-      title: Student Services Centre
-      description: For walk-in assistance and certification  of TP Academic Results
-        and Diploma Certificate
-      image: /images/TP Campus Map_SS_location4.jpg
+      title: Connexions@TP
+      description: For walk-in assistance with student-related matters, including
+        certification and collection of TP official documents.
+      image: /images/Media__8_.jpg
       alt: Image alt text
   - infobar:
       title: Contact Information
