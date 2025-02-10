@@ -24,9 +24,11 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Student Services closure for relocation.
+      description: Student Services has transformed into Connexions@TP, with a
+        brand-new look and a fresh vibe! Find us at Admin Blk 9 Level 2, Lobby
+        D.
       alt: Image alt text
-      image: /images/Relocating___Alumni___MOP__final_.png
+      image: /images/We_have_moved___1_.png
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
