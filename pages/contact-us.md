@@ -19,18 +19,19 @@ locations:
     title: Main Office
   - address:
       - Administration Block 9
-      - Level 2, Lift Lobby C
+      - Level 2, Lift Lobby D
       - Singapore 529757
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 5.30pm
         description: Closed on Public Holidays
     maps_link: https://goo.gl/maps/grYWrKUwFZP51qAc7
-    title: Student Services
+    title: Connexions@TP
 contacts:
   - content:
       - phone: +65 6780 4191
       - email: studentservices@tp.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: https://tp.questionpro.com/a/TakeSurvey?tt=puLuRg6R9VY%3D
 ---
