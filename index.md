@@ -4,8 +4,7 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: Dear Customers, Student Services will be closed on 5 Feb (Wed) and
-  7 Feb (Fri). Normal operations on 6 Feb. Thank you.
+notification: ""
 sections:
   - hero:
       background: /images/ssd banner reduced.png
