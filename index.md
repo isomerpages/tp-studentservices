@@ -28,7 +28,7 @@ sections:
         brand-new look and a fresh vibe! Find us at Admin Blk 9 Level 2, Lobby
         D.
       alt: Image alt text
-      image: /images/We_have_moved___1_.png
+      image: /images/The_Hive_frontage_photo.jpg
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
