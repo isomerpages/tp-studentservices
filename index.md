@@ -47,7 +47,7 @@ sections:
       title: Connexions@TP
       description: For walk-in assistance with student-related matters, including
         certification and collection of TP official documents.
-      image: /images/Media__8_.jpg
+      image: /images/The_Hive_frontage_photo.jpg
       alt: Image alt text
   - infobar:
       title: Contact Information
