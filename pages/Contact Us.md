@@ -138,10 +138,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Care / SEN Support</p>
+<p>Student Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>care@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6780 5959</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sen@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6780 5959</p>
