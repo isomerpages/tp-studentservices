@@ -89,7 +89,7 @@ variant: tiptap
 <p>bursary@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6780 5959</p>
+<p>6780 5556</p>
 </td>
 </tr>
 <tr>
