@@ -4,7 +4,12 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: Government officials will <b>NEVER</b> ask you to transfer money
+  or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information on how to protect yourself against scams, please visit the <a
+  href="https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/">ScamShield
+  website</a>.
 sections:
   - hero:
       background: /images/ssd banner reduced.png
