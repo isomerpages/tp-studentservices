@@ -4,7 +4,7 @@ title: Student Services Digital
 description: Access Student Services digitally anytime and anywhere at your fingertips!
 image: /images/SSD_Banner05.png
 permalink: /
-notification: ""
+notification: <a href="www.google.com">test</a>
 sections:
   - hero:
       background: /images/ssd banner reduced.png
