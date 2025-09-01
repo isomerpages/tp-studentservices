@@ -29,11 +29,11 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Student Services has transformed into Connexions@TP, with a
-        brand-new look and a fresh vibe! Find us at Admin Blk 9 Level 2, Lobby
-        D.
+      description: Connexions@TP will be closing at 5pm on 5 Sep 2025 for Eat With
+        Your Family Day. For student-related services, you may email to
+        studentservices@tp.edu.sg.
       alt: Image alt text
-      image: /images/The_Hive_frontage_photo.jpg
+      image: /images/EWYFD_Early_Closure_Notice.png
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
