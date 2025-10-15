@@ -29,7 +29,7 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Join us at TPOF 2025 on 19 & 20 Nov! Explore 50 booths, gain
+      description: Join us at TPOF 2025 on 19 & 20 Nov!   Explore 50 booths, gain
         education & career insights, and enjoy event highlights and fun
         giveaways!
       alt: Image alt text
