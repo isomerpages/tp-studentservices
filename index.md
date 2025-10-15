@@ -34,7 +34,7 @@ sections:
         giveaways!
       alt: Image alt text
       image: /images/TPOF2025__a_.png
-      url: tp.edu.sg/tpof
+      url: https://tpof.tp.edu.sg/
       button: Click here to find out more!
   - infopic:
       title: Wayfinding & Facilities
