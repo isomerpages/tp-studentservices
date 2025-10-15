@@ -29,11 +29,13 @@ sections:
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
       title: Key Highlight
-      description: Connexions@TP will be closing at 5pm on 5 Sep 2025 for Eat With
-        Your Family Day. For student-related services, you may email to
-        studentservices@tp.edu.sg.
+      description: Join us at TPOF 2025 on 19 & 20 Nov!   Explore 50 booths, gain
+        education & career insights, and enjoy event highlights and fun
+        giveaways!
       alt: Image alt text
-      image: /images/EWYFD_Early_Closure_Notice.png
+      image: /images/TPOF2025__a_.png
+      url: tp.edu.sg/tpof
+      button: Click here to find out more!
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
