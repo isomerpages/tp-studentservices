@@ -33,7 +33,7 @@ sections:
         education & career insights, and enjoy event highlights and fun
         giveaways!
       alt: Image alt text
-      image: /images/TPOF2025.png
+      image: /images/TPOF2025__a_.png
       url: tp.edu.sg/tpof.
       button: Click here to find out more!
   - infopic:
