@@ -56,6 +56,8 @@ sections:
         certification and collection of TP official documents.
       image: /images/The_Hive_frontage_photo.jpg
       alt: Image alt text
+      button: TP Campus Map
+      url: https://www.tp.edu.sg/about-tp/tp-campus-map.html
   - infobar:
       title: Contact Information
       description: Looking for a particular school or department?
