@@ -37,11 +37,13 @@ sections:
       url: https://tpof.tp.edu.sg/
       button: Click here to find out more!
   - infopic:
-      title: Announcement
-      subtitle: Add an image and text
+      title: Service Centres Early Closure
       id: infopic
       image: /images/EWYFD_Early_Closure_Notice_A4.jpg
       alt: Image alt text
+      description: Dear Customers,  Connexions@TP, Catalyst@TP and Care@TP will be
+        closing at 5pm on 21 Nov 2025 for Eat With Your Family Day.  Thank you
+        for your understanding.
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
