@@ -51,6 +51,7 @@ sections:
       url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
       image: /images/Screenshot_2025_02_10_171128.png
       alt: Image alt text
+      subtitle: t
   - infopic:
       title: TP Events
       description: Check out what's happening at TP
