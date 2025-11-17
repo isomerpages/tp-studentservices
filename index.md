@@ -37,6 +37,12 @@ sections:
       url: https://tpof.tp.edu.sg/
       button: Click here to find out more!
   - infopic:
+      title: Announcement
+      subtitle: Add an image and text
+      id: infopic
+      image: /images/EWYFD_Early_Closure_Notice_A4.jpg
+      alt: Image alt text
+  - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
       button: Find out more
