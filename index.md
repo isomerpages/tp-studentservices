@@ -28,22 +28,13 @@ sections:
           description: Information & Services
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
-      title: Key Highlight
-      description: Join us at TPOF 2025 on 19 & 20 Nov!   Explore 50 booths, gain
-        education & career insights, and enjoy event highlights and fun
-        giveaways!
+      title: "Key Highlight: TP Open House"
+      description: Discover vibrant campus life, explore your dream courses and
+        experience what it’s like to be part of the TP family!
       alt: Image alt text
-      image: /images/TPOF2025__a_.png
-      url: https://tpof.tp.edu.sg/
+      image: /images/banner.jpg
+      url: https://www.tp.edu.sg/openhouse/index.html
       button: Click here to find out more!
-  - infopic:
-      title: Service Centres Early Closure
-      id: infopic
-      image: /images/EWYFD_Early_Closure_Notice_A4.jpg
-      alt: Image alt text
-      description: Dear Customers,  Connexions@TP, Catalyst@TP and Care@TP will be
-        closing at 5pm on 21 Nov 2025 for Eat With Your Family Day.  Thank you
-        for your understanding.
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
