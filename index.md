@@ -53,7 +53,7 @@ sections:
       title: Connexions@TP
       description: For walk-in assistance with student-related matters, including
         certification and collection of TP official documents.
-      image: /images/The_Hive_frontage_photo.jpg
+      image: /images/Connexions_TP.png
       alt: Image alt text
       button: TP Campus Map
       url: https://www.tp.edu.sg/about-tp/tp-campus-map.html
