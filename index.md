@@ -28,11 +28,6 @@ sections:
           description: Information & Services
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
-      title: Service Centres Early Closure
-      id: infopic
-      image: /images/Holiday_Closure_Notice__002_.jpg
-      alt: Image alt text
-  - infopic:
       title: "Key Highlight: TP Open House"
       description: Discover vibrant campus life, explore your dream courses and
         experience what it’s like to be part of the TP family!
