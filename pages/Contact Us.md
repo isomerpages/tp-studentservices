@@ -127,10 +127,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IT Service Management (ITSM) Centre</p>
+<p>IT Helpdesk@TP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>itsm@tp.edu.sg</p>
+<p>IThelpdesk@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6780 5933</p>
