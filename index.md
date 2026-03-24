@@ -28,12 +28,11 @@ sections:
           description: Information & Services
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
-      title: "Key Highlight: TP Open House"
-      description: Discover vibrant campus life, explore your dream courses and
-        experience what it’s like to be part of the TP family!
+      title: CCA Fair 2026
+      description: Your Gateway to a World of Thrilling Opportunities!
       alt: Image alt text
-      image: /images/banner.jpg
-      url: https://www.tp.edu.sg/openhouse/index.html
+      image: /images/CCA.png
+      url: https://www.tp.edu.sg/life-at-tp/cca-events.html
       button: Click here to find out more!
   - infopic:
       title: Wayfinding & Facilities
