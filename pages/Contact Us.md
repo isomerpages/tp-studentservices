@@ -74,7 +74,7 @@ variant: tiptap
 <p>Fees &amp; Payment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fnahotline" rel="noopener noreferrer nofollow" target="_blank">Student Finance Enquiry</a>
+<p><a href="https://for.edu.sg/financeenquiry" rel="noopener noreferrer nofollow" target="_blank">Student Finance Enquiry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
