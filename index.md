@@ -31,6 +31,8 @@ sections:
       title: Eat with Your Family Day
       alt: Image alt text
       image: /images/EWYFD_Early_Closure_Notice.jpg
+      description: Connexions@TP, Catalyst@TP and Care@TP will be closing at 5pm on 29
+        May 2026 for Eat With Your Family Day. Thank you for your understanding!
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
