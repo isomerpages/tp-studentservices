@@ -28,12 +28,9 @@ sections:
           description: Information & Services
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
-      title: CCA Fair 2026
-      description: Your Gateway to a World of Thrilling Opportunities!
+      title: Eat with Your Family Day
       alt: Image alt text
-      image: /images/CCA.png
-      url: https://www.tp.edu.sg/life-at-tp/cca-events.html
-      button: Click here to find out more!
+      image: /images/EWYFD_Early_Closure_Notice.jpg
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
