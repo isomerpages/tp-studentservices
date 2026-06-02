@@ -28,11 +28,12 @@ sections:
           description: Information & Services
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
-      title: Eat with Your Family Day
+      title: Early Admissions Exercise 2026
       alt: Image alt text
-      image: /images/EWYFD_Early_Closure_Notice.jpg
-      description: Connexions@TP, Catalyst@TP and Care@TP will be closing at 5pm on 29
-        May 2026 for Eat With Your Family Day. Thank you for your understanding!
+      image: /images/EAE.png
+      description: Get r-EAE-dy to create your tomorrow!
+      button: Find out more!
+      url: https://eae.tp.edu.sg/home#GetReady
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
