@@ -56,9 +56,4 @@ sections:
       alt: Image alt text
       button: TP Campus Map
       url: https://www.tp.edu.sg/about-tp/tp-campus-map.html
-  - infobar:
-      title: Contact Information
-      description: Looking for a particular school or department?
-      button: Contact us
-      url: /contactus
 ---
