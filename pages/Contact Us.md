@@ -63,7 +63,8 @@ variant: tiptap
 <p>Fault Reporting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>efmfaultreporting@tp.edu.sg</p>
+<p><a href="mailto:efmhelpdesk@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">efmhelpdesk@tp.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6780 5955</p>
