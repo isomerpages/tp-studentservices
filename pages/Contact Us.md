@@ -30,7 +30,7 @@ variant: tiptap
 <p>Admissions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:admissions@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admissions@tp.edu.sg</a> 
+<p><a href="mailto:admissions@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admissions@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Education &amp; Career Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:getahead@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">getahead@tp.edu.sg</a> 
+<p><a href="mailto:getahead@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">getahead@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ variant: tiptap
 <p>Examinations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:examinations@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">examinations@tp.edu.sg</a> 
+<p><a href="mailto:examinations@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">examinations@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ variant: tiptap
 <p>Financial Aid &amp; Awards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bursary@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bursary@tp.edu.sg</a> 
+<p><a href="mailto:bursary@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bursary@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +102,7 @@ variant: tiptap
 <p>Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:asklib@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asklib@tp.edu.sg</a> 
+<p><a href="mailto:asklib@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asklib@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ variant: tiptap
 <p>Lost &amp; Found</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lostandfound@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lostandfound@tp.edu.sg</a> 
+<p><a href="mailto:lostandfound@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lostandfound@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,7 +126,7 @@ variant: tiptap
 <p>International Students Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:isohotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isohotline@tp.edu.sg</a> 
+<p><a href="mailto:isohotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isohotline@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ variant: tiptap
 <p>IT Helpdesk@TP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:IThelpdesk@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IThelpdesk@tp.edu.sg</a> 
+<p><a href="mailto:IThelpdesk@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IThelpdesk@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +150,7 @@ variant: tiptap
 <p>Student Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:care@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">care@tp.edu.sg</a> 
+<p><a href="mailto:care@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">care@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +162,7 @@ variant: tiptap
 <p>SEN Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sen@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sen@tp.edu.sg</a> 
+<p><a href="mailto:sen@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sen@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +174,7 @@ variant: tiptap
 <p>Student Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:studentservices@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">studentservices@tp.edu.sg</a> 
+<p><a href="mailto:studentservices@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">studentservices@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,7 +186,7 @@ variant: tiptap
 <p>Temasek SkillsFuture Academy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tsa@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsa@tp.edu.sg</a> 
+<p><a href="mailto:tsa@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsa@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -198,7 +198,7 @@ variant: tiptap
 <p>Security Industry Institute</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sii@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sii@tp.edu.sg</a> 
+<p><a href="mailto:sii@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sii@tp.edu.sg</a>
 </p>
 </td>
 </tr>
