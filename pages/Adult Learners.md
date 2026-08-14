@@ -10,19 +10,15 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://forms.office.com/r/EdPFL3J5RT" rel="noopener noreferrer nofollow" target="_blank">Request for Statement of Results for Part-Time Courses</a>
+<p><a href="https://forms.office.com/r/EdPFL3J5RT" rel="noopener noreferrer nofollow" target="_blank">Request for Statement of Results (SOR)- Applicable for non-graduates and current students only</a>
 </p>
 </li>
 <li>
-<p><a href="https://forms.office.com/r/bNTMhftBM2" rel="noopener noreferrer nofollow" target="_blank">Request for Academic Transcript</a>
+<p><a href="https://forms.office.com/r/bNTMhftBM2" rel="noopener noreferrer nofollow" target="_blank">Request for Academic Transcript (Applicable for graduates only)</a>
 </p>
 </li>
 <li>
-<p><a href="https://forms.office.com/r/v5ysN45MAM" rel="noopener noreferrer nofollow" target="_blank">Application for Certificate / Replacement of Diploma</a>
-</p>
-</li>
-<li>
-<p><a href="https://forms.office.com/r/DsytRFBsLV" rel="noopener noreferrer nofollow" target="_blank">Application for Course Completion Letter&nbsp;for Award of Diploma/Certificate</a>
+<p><a href="https://forms.office.com/r/v5ysN45MAM" rel="noopener noreferrer nofollow" target="_blank">Request for Modular / Post-Diploma Certificate (MC/PDC) / Replacement of Diploma Certificate</a>
 </p>
 </li>
 </ul>
