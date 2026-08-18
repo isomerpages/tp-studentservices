@@ -28,12 +28,12 @@ sections:
           description: Information & Services
           url: https://studentservices.tp.edu.sg/alumni/
   - infopic:
-      title: Early Admissions Exercise 2026
+      title: Closure Notice
       alt: Image alt text
-      image: /images/EAE.png
-      description: Get r-EAE-dy to create your tomorrow!
-      button: Find out more!
-      url: https://eae.tp.edu.sg/home#GetReady
+      image: /images/Care_and_Connexion_Closure_Notice.jpg
+      description: Care@TP and Connexions@TP will be closed for a departmental event.
+        Both centres will resume operations after 3pm. We apologise for any
+        inconvenience caused.
   - infopic:
       title: Wayfinding & Facilities
       description: TP Facilities & Amenities
